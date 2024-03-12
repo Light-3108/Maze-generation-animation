@@ -1,4 +1,4 @@
-/* Generate maze using backtracking algorithm and solving using Wall-following algo*/
+/* Generate maze using backtracking algorithm animation*/
 #include <iostream>
 #include <stack>
 #include <time.h>
